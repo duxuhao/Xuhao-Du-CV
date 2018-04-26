@@ -79,15 +79,15 @@ Selected Competition Experiences
 Other projects
 ----------
 
-***Power transforme core vibration reduction***
+**Power transforme core vibration reduction**
 
 - Use transfer learning for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
 
-***Apply generative adversarial networks in sample expansion***
+**Apply generative adversarial networks in sample expansion**
 
 - Use generative adversarial networks for small sample expansion. paper under review
 
-***Apply hybrid AI in civil engineering***
+**Apply hybrid AI in civil engineering**
 
 - Comparative Study of Hybrid Artificial Intelligence Approaches for Predicting Hangingwall Stability [paper](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0000737)
 
@@ -122,7 +122,22 @@ Skill
 * Interest:
 
      * Basketball [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
+     
      * Data Mining Competitions
-     * Acting [moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
+     
+     * Acting ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
+     
      * Travel
+     
      * Comic
+
+Other Awards
+----------------------------------------
+
+* I-INCE Young Professional 2017
+
+* IBM Cloud Research Funding Grant 2016
+
+* International Postgraduate Researcg Scholarship (Commenwealth) 2015 - 2018
+
+* Young Scientist Grant (ICBEN) 2014
