@@ -20,18 +20,19 @@ Education
 
 
 **BSc, Physics**
-- 2010-2014 -- Nanjing University, China
+- 2010-2014 -- Nanjing University, Nanjing, China
 
     *Physics and Acoustics*
 
-Experience
+Woek Experience
 ----------
 
-**Research Officer** (March 2017 – Present)
+**Research Officer** (Mar. 2017 – Present)
 
 - The Marshall Centre for Infectious Diseases Research and Training, UWA
 
-   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. Achieve 90% diagnosis accuracy. Patent under review.
+   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
+   -- Achieved 90% diagnosis accuracy. Patent under reviewed.
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/).
 
@@ -39,9 +40,17 @@ Experience
 
 * [Media Report](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
-**That Other Job You Had**
+**Acoustics Architect** (July 2014 - Nov. 2014)
 
-Also with a short description.
+- Duoyi Network, Guangzhou, China
+
+   -- Built Instant communication system in online games.
+
+**Acoustic Consultant** (Sep. 2013 - Dec. 2013)
+
+- Forevergreen
+
+   -- Provide noise and vibration reduction solutions.
 
 Technical Experience
 --------------------
@@ -82,15 +91,36 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Skill
 ----------------------------------------
+* Machine Learning:
 
+     * Algorithms
+     * Deep Learning
+     * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection)
+     
+* Coding:
+
+     * Python/Matlab/R/C++/Java
+     * Tensorflow
+     * Cloud computing/Spark
+         
+* Acoustics:
+
+     * Signal Processing
+     * Model Analysis
+     * Achitectural Acoustics
+     
 * Human Languages:
 
      * Cantonese (native speaker)
      * Chinese
      * English
 
-* Random tidbit
+* Interest:
 
-* Other sort of impressive-sounding thing you did
+     * Basketball [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
+     * Data Mining Competitions
+     * Moive
+     * Travel
+     * Comic
