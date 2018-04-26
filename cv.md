@@ -18,19 +18,20 @@ Education
 
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
-2010-2014
 
-:   **BSc, Physics**; Nanjing University, China
+**BSc, Physics**; 
+- 2010-2014 -- Nanjing University, China
 
     *Physics and Acoustics*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Research Officer**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
+- March 2017 – Present -- The Marshall Centre for Infectious Diseases Research and Training, UWA
+
+Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. The research centre is established by the Noble Laureate Barry J Marshall.
 links:
 
 * First item
