@@ -121,6 +121,6 @@ Skill
 
      * Basketball [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
      * Data Mining Competitions
-     * Moive
-     * Travel
+     * Acting (moive, drama)
+     * Travel
      * Comic
