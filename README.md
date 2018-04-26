@@ -1,4 +1,4 @@
-Xuhao(Peter) Du
+Xuhao(Peter) Du - CV
 ============
 
 ***Always enthusiastic in working on real-world problem with colleagues and data***
