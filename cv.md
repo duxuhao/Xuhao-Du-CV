@@ -12,7 +12,9 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;Wechat: D674695255
 Education
 ---------
 
-**PhD, Mechanical Engineering**; The University of Western Australia, <td>Australia 2015-2019 (expected)</td>
+**PhD, Mechanical Engineering**
+
+- 2015-2019 (expected) -- The University of Western Australia, Australia 
 
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
