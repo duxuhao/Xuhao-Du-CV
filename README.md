@@ -26,7 +26,7 @@ Education
 
     *Physics and Acoustics*
 
-Woek Experiences
+Work Experiences
 ----------
 
 ***Research Officer*** (Mar. 2017 – Present)
