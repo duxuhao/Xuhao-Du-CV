@@ -31,9 +31,9 @@ Experience
 
 - The Marshall Centre for Infectious Diseases Research and Training, UWA
 
---Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
+   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
 
---The research centre is established by the Noble Laureate Barry J Marshall.
+   -- The research centre is established by the Noble Laureate Barry J Marshall.
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/).
 
