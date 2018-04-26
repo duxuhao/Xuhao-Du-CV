@@ -43,7 +43,7 @@ Woek Experiences
 
 - Duoyi Network, Guangzhou, China
 
-   -- Built Instant communication system in online games.
+   -- Built instant communication system in online games.
 
 ***Acoustic Consultant*** (Sep. 2013 - Dec. 2013)
 
@@ -124,12 +124,10 @@ Skill
 * Interest:
 
      * Basketball [Champion!](https://www.facebook.com/pg/UWABasketballClub/photos/?tab=album&album_id=485737261623448)
-     
      * Data Mining Competitions
-     
-     * Acting ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
-     * Travel
-     * Comic
+     * Acting ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
+     * Travel
+     * Comic
 
 Other Awards
 ----------------------------------------
