@@ -12,14 +12,14 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 Education
 ---------
 
-**PhD, Mechanical Engineering**
+***PhD, Mechanical Engineering***
 
 - 2015-2019 (expected) -- The University of Western Australia, Australia 
 
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
 
-**BSc, Physics**
+***BSc, Physics***
 - 2010-2014 -- Nanjing University, Nanjing, China
 
     *Physics and Acoustics*
@@ -60,7 +60,7 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye);  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml).
 
-***12 / 5000+*** (Mar. 2016 – Apr. 2016)
+***12nd / 5000+*** (Mar. 2016 – Apr. 2016)
 
 - Prediction of the conversion rate of advertisement -- IJCAI-2018
 
