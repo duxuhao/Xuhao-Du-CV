@@ -12,17 +12,15 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;Wechat: D674695255
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2019 (expected)
+:   **PhD, Mechanical Engineering**; The University of Western Australia, Australia
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2010-2014
+:   **BSc, Physics**; Nanjing University, China
 
-    *Minor: Awesomeology*
+    *Physics and Acoustics*
 
 Experience
 ----------
