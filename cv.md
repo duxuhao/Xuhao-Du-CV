@@ -3,7 +3,9 @@ Xuhao(Peter) Du
 
 -------------------     ----------------------------
 Shenton Park                     duxuhao88@gmail.com
+
 Perth                                       Linkedin[link](http://www.linkedin.com/in/duxuhao)
+
 Australia                         Wechat: D674695255
 -------------------     ----------------------------
 
