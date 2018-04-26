@@ -39,6 +39,14 @@ Woek Experiences
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/);   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z);   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
+***Ph.D.*** (Mar. 2015 – Present)
+
+- The Centre of Acoustics, Dynamic and Vibration, UWA
+
+   -- Power transforme core vibration reduction using transfer learning for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
+   
+   -- Use generative adversarial networks for small sample expansion. paper under review
+
 ***Acoustics Architect*** (July 2014 - Nov. 2014)
 
 - Duoyi Network, Guangzhou, China
@@ -78,22 +86,20 @@ Selected Competition Experiences
 
 * [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/);  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
 
-Other projects
+Side projects
 ----------
-
-**Power transforme core vibration reduction**
-
-- Use transfer learning for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
-
-**Apply generative adversarial networks in sample expansion**
-
-- Use generative adversarial networks for small sample expansion. paper under review
 
 **Apply hybrid AI in civil engineering**
 
 - Comparative Study of Hybrid Artificial Intelligence Approaches for Predicting Hangingwall Stability [paper](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0000737)
 
 - Prediction of open stope hangingwall stability using random forests [paper](https://link.springer.com/article/10.1007%2Fs11069-018-3246-7)
+
+**Apply machine learning in room acoustics**
+
+- A study on the optimal English speech level for Chinese listeners in classrooms [paper](https://www.sciencedirect.com/science/article/pii/S0003682X15002881)
+
+- Apply machine learning to obtain the optimal English speech level [code](https://github.com/duxuhao/Classroom-Acoustics-Research)
 
 Skill
 ----------------------------------------
