@@ -1,6 +1,8 @@
 Xuhao(Peter) Du
 ============
 
+Always enthusiastic in working on real-world problem with colleagues and data
+
 -------------------     ----------------------------
 Shenton Park&emsp;&emsp;&emsp;duxuhao88@gmail.com
 
@@ -12,15 +14,15 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 Education
 ---------
 
-***PhD, Mechanical Engineering***
+***PhD, Mechanical Engineering*** (2015-2019 (expected))
 
-- 2015-2019 (expected) -- The University of Western Australia, Australia 
+- The University of Western Australia, Australia 
 
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
 
-***BSc, Physics***
-- 2010-2014 -- Nanjing University, Nanjing, China
+***BSc, Physics*** (2010-2014)
+- Nanjing University, Nanjing, China
 
     *Physics and Acoustics*
 
@@ -126,10 +128,8 @@ Skill
      * Data Mining Competitions
      
      * Acting ([moive](http://new-play.tudou.com/v/162380334.html?spm=a2h0k.8191414.0.0&from=s1.8-1-1.2), drama)
-     
      * Travel
-     
-     * Comic
+     * Comic
 
 Other Awards
 ----------------------------------------
