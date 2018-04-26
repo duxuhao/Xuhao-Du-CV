@@ -13,11 +13,13 @@ Education
 ---------
 
 2015-2019 (expected)
+
 :   **PhD, Mechanical Engineering**; The University of Western Australia, Australia
 
-    *Thesis title: The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
+    *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
 2010-2014
+
 :   **BSc, Physics**; Nanjing University, China
 
     *Physics and Acoustics*
@@ -84,9 +86,9 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Cantonese (native speaker)
+     * Chinese
+     * English
 
 * Random tidbit
 
