@@ -19,7 +19,7 @@ Education
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
 
-**BSc, Physics**; 
+**BSc, Physics**
 - 2010-2014 -- Nanjing University, China
 
     *Physics and Acoustics*
@@ -27,17 +27,19 @@ Education
 Experience
 ----------
 
-**Research Officer**
+**Research Officer** (March 2017 – Present)
 
-- March 2017 – Present -- The Marshall Centre for Infectious Diseases Research and Training, UWA
+- The Marshall Centre for Infectious Diseases Research and Training, UWA
 
-Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. The research centre is established by the Noble Laureate Barry J Marshall.
-links:
+-- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
 
-* First item
+-- The research centre is established by the Noble Laureate Barry J Marshall.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/).
+
+* [Media Report](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z).
+
+* [Media Report](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
 **That Other Job You Had**
 
