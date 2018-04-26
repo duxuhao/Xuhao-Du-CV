@@ -86,7 +86,7 @@ Selected Competition Experiences
 
 * [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/);  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
 
-Side projects
+Side Projects
 ----------
 
 **Apply hybrid AI in civil engineering**
@@ -101,7 +101,7 @@ Side projects
 
 - Apply machine learning to obtain the optimal English speech level [code](https://github.com/duxuhao/Classroom-Acoustics-Research)
 
-Skill
+Skills
 ----------------------------------------
 * Machine Learning:
 
