@@ -1,7 +1,7 @@
 Xuhao(Peter) Du
 ============
 
-Always enthusiastic in working on real-world problem with colleagues and data
+***Always enthusiastic in working on real-world problem with colleagues and data***
 
 -------------------     ----------------------------
 Shenton Park&emsp;&emsp;&emsp;duxuhao88@gmail.com
