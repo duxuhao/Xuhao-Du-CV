@@ -34,7 +34,7 @@ Woek Experiences
    -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
    -- Achieved 90% diagnosis accuracy. Patent under reviewed.
 
-* [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/).  [Media Report](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z).  [Media Report](https://particle.scitech.org.au/people/listen-to-your-gut/).
+* [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/);   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z);   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
 **Acoustics Architect** (July 2014 - Nov. 2014)
 
@@ -48,17 +48,32 @@ Woek Experiences
 
    -- Provide noise and vibration reduction solutions.
    
-Competition Experiences
+Selected Competition Experiences
 ----------
 
-**Champion** (Sep. 2016 – Oct. 2016)
+**Champion / 2000+** (Sep. 2016 – Oct. 2016)
 
 - Customer pattern recognition on online finance -- Rong 360
 
-   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
-   -- Achieved 90% diagnosis accuracy. Patent under reviewed.
+   -- key: Features Engineering; good validation; model stacking; excellent presentation!
 
-* [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye).  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml).
+* [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye);  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml).
+
+**12 / 5000+** (Mar. 2016 – Apr. 2016)
+
+- Prediction of the conversion rate of advertisement -- IJCAI-2018
+
+   -- key: Features Selection
+
+* [Competition Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US);  [Main Code](https://github.com/duxuhao/Feature-Selection).
+
+**Young Innovator Award** (May 2017)
+
+- Use sound the gain insights into performance, maintenance and failures -- Unearth Hackathon
+
+   -- key: Acoustic beamformming for devices localization; Neural Network for instrument identification (99.5% accuracy) and gradient boosting tree for condition mornitoring (95%)
+
+* [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/);  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
 
 Skill
 ----------------------------------------
