@@ -138,7 +138,7 @@ Skills
 Other Awards
 ----------------------------------------
 
-* I-INCE Young Professional 2017
+* I-INCE Young Professional 2017 [link](http://i-ince.org/youngprofessionals.php#DEM)
 
 * IBM Cloud Research Funding Grant 2016
 
