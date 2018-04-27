@@ -45,7 +45,7 @@ Work Experiences
 
    -- Power transforme core vibration reduction using transfer learning for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
    
-   -- Use generative adversarial networks for small sample expansion. paper under review
+   -- Use generative adversarial networks for small sample expansion for further fault diagnosis of devicex. paper under review
 
 ***Acoustics Architect*** (July 2014 - Nov. 2014)
 
@@ -64,7 +64,7 @@ Selected Competition Experiences
 
 ***Champion / 2000+*** (Sep. 2016 – Oct. 2016)
 
-- Customer pattern recognition on online finance -- Rong 360
+- Customer pattern recognition on online finance -- *Rong 360*
 
    -- key: Features Engineering; good validation; model stacking; excellent presentation!
 
@@ -72,7 +72,7 @@ Selected Competition Experiences
 
 ***12nd / 5000+*** (Mar. 2016 – Apr. 2016)
 
-- Prediction of the conversion rate of advertisement -- IJCAI-2018
+- Prediction of the conversion rate of advertisement -- *IJCAI-2018*
 
    -- key: Features Selection
 
@@ -80,7 +80,7 @@ Selected Competition Experiences
 
 ***Young Innovator Award*** (May 2017)
 
-- Use sound the gain insights into performance, maintenance and failures -- Unearth Hackathon
+- Use sound the gain insights into performance, maintenance and failures -- *Unearth Hackathon*
 
    -- key: Acoustic beamforming for devices localization; Neural Network for instrument identification (99.5% accuracy) and gradient boosting tree for condition mornitoring (95%)
 
