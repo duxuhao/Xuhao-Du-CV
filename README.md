@@ -95,6 +95,10 @@ Side Projects
 
 - Prediction of open stope hangingwall stability using random forests [paper](https://link.springer.com/article/10.1007%2Fs11069-018-3246-7)
 
+**Develop features selection library**
+
+-  for general features selection based on certain machine learning algorithm and evaluation methos [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
+
 **Apply machine learning in room acoustics**
 
 - A study on the optimal English speech level for Chinese listeners in classrooms [paper](https://www.sciencedirect.com/science/article/pii/S0003682X15002881)
@@ -107,7 +111,7 @@ Skills
 
      * Algorithms
      * Deep Learning
-     * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection)
+     * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
      
 * Coding:
 
