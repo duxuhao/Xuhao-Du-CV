@@ -37,7 +37,7 @@ Work Experiences
    
    -- Achieved 90% diagnosis accuracy. Patent under reviewed.
 
-* [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/);   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z);   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
+* [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/)   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z)   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
 ***Ph.D.*** (Mar. 2015 – Present)
 
@@ -68,7 +68,7 @@ Selected Competition Experiences
 
    -- key: Features Engineering; good validation; model stacking; excellent presentation!
 
-* [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye);  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml).
+* [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
 ***12nd / 5000+*** (Mar. 2016 – Apr. 2016)
 
@@ -76,7 +76,7 @@ Selected Competition Experiences
 
    -- key: Features Selection
 
-* [Competition Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US);  [Main Code](https://github.com/duxuhao/Feature-Selection).
+* [Competition Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US)  [Main Code](https://github.com/duxuhao/Feature-Selection).
 
 ***Young Innovator Award*** (May 2017)
 
@@ -111,7 +111,7 @@ Skills
 
      * Algorithms
      * Deep Learning
-     * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
+     * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection) [pip](https://pypi.org/project/MLFeatureSelection/)
      
 * Coding:
 
