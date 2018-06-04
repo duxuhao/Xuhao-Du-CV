@@ -84,7 +84,7 @@ Selected Competition Experiences
 
    -- key: Acoustic beamforming for devices localization; Neural Network for instrument identification (99.5% accuracy) and gradient boosting tree for condition mornitoring (95%)
 
-* [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/);  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
+* [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/)  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
 
 Side Projects
 ----------
