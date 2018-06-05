@@ -47,7 +47,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
    -- 通过遗传算法和极限森林算法对有限元和实验数据进行结合来研究复杂机械结构的机械特性 [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
    
-   -- 通过对抗网络对小样本进行扩容并用于机械故障诊断 paper under review
+   -- 通过对抗网络对小样本进行扩容并用于机械故障诊断 (论文再审)
 
 ***语音产品架构师*** (July 2014 - Nov. 2014)
 
