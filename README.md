@@ -95,7 +95,7 @@ Side Projects
 
 - Prediction of open stope hangingwall stability using random forests [paper](https://link.springer.com/article/10.1007%2Fs11069-018-3246-7)
 
-**Develop features selection library**
+**Develop features selection library (160+ stars)**
 
 -  for general features selection based on certain machine learning algorithm and evaluation methos [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
 
