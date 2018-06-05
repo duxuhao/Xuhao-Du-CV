@@ -70,7 +70,7 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***12nd / 5000+*** (Mar. 2016 – Apr. 2016)
+***12nd / 5000+*** (Mar. 2018 – Apr. 2018)
 
 - Prediction of the conversion rate of advertisement -- *IJCAI-2018*
 
