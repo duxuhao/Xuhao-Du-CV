@@ -41,7 +41,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/)   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z)   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
-***博士研究生*** (Mar. 2015 – 至今)
+***博士研究生*** (Mar. 2015 – 至今, 英联邦全额奖学金)
 
 - 西澳大学声与振动研究中心
 
@@ -151,7 +151,7 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
      * Travel
      * Comic
 
-其他获得奖项
+部分奖项
 ----------------------------------------
 
 * I-INCE Young Professional 2017 [link](http://i-ince.org/youngprofessionals.php#DEM)
