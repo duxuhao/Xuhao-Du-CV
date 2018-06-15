@@ -45,7 +45,11 @@ Work Experiences
 
    -- Power transforme core vibration reduction using ***genetic algorithm*** ***transfer learning*** for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
    
-   -- Use ***generative adversarial networks*** for small sample expansion for further fault diagnosis of devicex. paper under review
+   -- Use ***generative adversarial networks*** for small sample expansion for further fault diagnosis of devicex. paper under review
+   
+   -- Analytical model of the magnetic field within the transformer (Maxwell Equation, Equivalent magnetic circuit)
+   
+   -- Analytical model of the mechanical response of the laminated structure (First-order principle, Spring-Mass model)
 
 ***Acoustics Architect*** (July 2014 - Nov. 2014)
 
