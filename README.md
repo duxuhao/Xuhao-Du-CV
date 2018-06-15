@@ -14,14 +14,14 @@ Australia&emsp;&emsp;&emsp;&emsp;&emsp;[Github](https://github.com/duxuhao)
 Education
 ---------
 
-***PhD, Mechanical Engineering*** (2015-2019 (expected))
+***PhD, Mechanical Engineering*** (Mar. 2015- Feb. 2019 (expected))
 
 - The University of Western Australia, Australia 
 
     *The mechanical and electromagnetic properties of power transformer core - approach from Artificial Intelligent*
 
 
-***BSc, Physics*** (2010-2014)
+***BSc, Physics*** (Sep. 2010- June 2014)
 - Nanjing University, Nanjing, China
 
     *Physics and Acoustics*
@@ -33,9 +33,9 @@ Work Experiences
 
 - The Marshall Centre for Infectious Diseases Research and Training, UWA
 
-   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis. 
+   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis and monitoring. 
    
-   -- Achieved 90% diagnosis accuracy. Patent under reviewed.
+   -- Achieved ***87% diagnosis accuracy***. Patent under reviewed.
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/)   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z)   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
@@ -43,9 +43,9 @@ Work Experiences
 
 - The Centre of Acoustics, Dynamic and Vibration, UWA
 
-   -- Power transforme core vibration reduction using transfer learning for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
+   -- Power transforme core vibration reduction using ***genetic algorithm*** ***transfer learning*** for combining machine learning algorithms, finite lement model and experiment data [paper](https://arxiv.org/ftp/arxiv/papers/1703/1703.07130.pdf)
    
-   -- Use generative adversarial networks for small sample expansion for further fault diagnosis of devicex. paper under review
+   -- Use ***generative adversarial networks*** for small sample expansion for further fault diagnosis of devicex. paper under review
 
 ***Acoustics Architect*** (July 2014 - Nov. 2014)
 
@@ -70,13 +70,21 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***12nd / 5000+*** (Mar. 2018 – Apr. 2018)
+***12th / 5000+*** (Mar. 2018 – Apr. 2018)
 
 - Prediction of the conversion rate of advertisement -- *IJCAI-2018*
 
    -- key: Features Selection
 
 * [Competition Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US)  [Main Code](https://github.com/duxuhao/Feature-Selection).
+
+***Top 10 / 4000+ (temporary)*** (May 2018 – July 2018)
+
+- Prediction the purchase time of target customers -- *JDATA-2018*
+
+   -- key: Data consruction, validation construction, Features Selection
+
+* [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) 
 
 ***Young Innovator Award*** (May 2017)
 
@@ -85,6 +93,14 @@ Selected Competition Experiences
    -- key: Acoustic beamforming for devices localization; Neural Network for instrument identification (99.5% accuracy) and gradient boosting tree for condition mornitoring (95%)
 
 * [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/)  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
+
+***19th / 3000+*** (May 2016 – July 2016)
+
+- Prediction the demand and supply gap at certern and and space -- *DiDi*
+
+   -- key: Data consruction, validation construction, Features Selection
+
+* [Code](https://github.com/duxuhao/didi---Tech) 
 
 Side Projects
 ----------
@@ -95,9 +111,17 @@ Side Projects
 
 - Prediction of open stope hangingwall stability using random forests [paper](https://link.springer.com/article/10.1007%2Fs11069-018-3246-7)
 
-**Develop features selection library (160+ stars)**
+**Apply autoencoder in signal enhancement**
+
+- Applied autoencoder with multiple layer and customized loss function for biosound enhancement
+
+**Develop features selection library (170+ stars)**
 
 -  for general features selection based on certain machine learning algorithm and evaluation methos [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
+
+**Use logistic regression for snapping shrimp detection**
+
+-  Use logistic regression to train the extracted snapping shrimp noise features for shrimp quantity detection.
 
 **Apply machine learning in room acoustics**
 
@@ -109,8 +133,8 @@ Skills
 ----------------------------------------
 * Machine Learning:
 
-     * Algorithms
-     * Deep Learning
+     * Algorithms (Tree-based, SVM, Logistic Regression, Transfer learning, Genetic)
+     * Deep Learning (DNN, CNN, AutoEncoder, GAN)
      * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection) [pip](https://pypi.org/project/MLFeatureSelection/)
      
 * Coding:
@@ -121,6 +145,7 @@ Skills
          
 * Acoustics:
 
+     * Active noise control
      * Signal Processing
      * Model Analysis
      * Achitectural Acoustics
@@ -143,6 +168,8 @@ Other Awards
 ----------------------------------------
 
 * I-INCE Young Professional 2017 [link](http://i-ince.org/youngprofessionals.php#DEM)
+
+* Outstanding Ph.D. Research Award of Western Australia
 
 * IBM Cloud Research Funding Grant 2016
 
