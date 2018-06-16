@@ -35,7 +35,7 @@ Work Experiences
 
    -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis and monitoring. 
    
-   -- Achieved ***87% diagnosis accuracy***. Patent under reviewed.
+   -- Achieved ***87% diagnosis accuracy***. Patent under reviewed.[paper](https://www.gastrojournal.org/article/S0016-5085(18)34476-7/abstract)
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/)   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z)   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
