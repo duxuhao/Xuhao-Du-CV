@@ -25,6 +25,15 @@ Education
 - Nanjing University, Nanjing, China
 
     *Physics and Acoustics*
+    
+***Online Course, Big Data*** (Sep. 2015- present)
+- Coursera
+
+    *Deep Learning Series* [Certificate](https://www.coursera.org/account/accomplishments/certificate/9AKWXLX25WY6)
+    
+    *Data Science Series* [Certificate](https://www.coursera.org/account/accomplishments/certificate/QLZVU64R65XV)
+    
+    *Executive Data Science Series* [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/89VEJS2MME5D)
 
 Work Experiences
 ----------
@@ -74,6 +83,14 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
+***5th (a rank) / 5000+ *** (May 2018 – July 2018)
+
+- Prediction the purchase time of target customers -- *JDATA-2018*
+
+   -- key: Data consruction, validation construction, Features Selection
+
+* [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) 
+
 ***12th / 5000+*** (Mar. 2018 – Apr. 2018)
 
 - Prediction of the conversion rate of advertisement -- *IJCAI-2018*
@@ -81,14 +98,6 @@ Selected Competition Experiences
    -- key: Features Selection
 
 * [Competition Website](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.70604055JiOpvu&raceId=231647&_lang=en_US)  [Main Code](https://github.com/duxuhao/Feature-Selection).
-
-***Top 10 / 4000+ (temporary)*** (May 2018 – July 2018)
-
-- Prediction the purchase time of target customers -- *JDATA-2018*
-
-   -- key: Data consruction, validation construction, Features Selection
-
-* [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) 
 
 ***Young Innovator Award*** (May 2017)
 
