@@ -83,13 +83,13 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***5th (a rank) / 5000+ *** (May 2018 – July 2018)
+***5th (a rank) 9th (b rank)/ 5000+ *** (May 2018 – July 2018)
 
 - Prediction the purchase time of target customers -- *JDATA-2018*
 
    -- key: Data consruction, validation construction, Features Selection
 
-* [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) 
+* [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) [Main Code](https://github.com/duxuhao/JData-2018)
 
 ***12th / 5000+*** (Mar. 2018 – Apr. 2018)
 
