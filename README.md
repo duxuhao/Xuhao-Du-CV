@@ -83,7 +83,7 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***5th (a rank) 9th (b rank)/ 5000+ *** (May 2018 – July 2018)
+***5th (a rank) 9th (b rank)/ 5000+*** (May 2018 – July 2018)
 
 - Prediction the purchase time of target customers -- *JDATA-2018*
 
