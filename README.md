@@ -75,7 +75,7 @@ Work Experiences
 Selected Competition Experiences
 ----------
 
-***Champion / 2000+*** (Sep. 2016 – Oct. 2016)
+***Top 1 / 2000+*** (Sep. 2016 – Oct. 2016)
 
 - Customer pattern recognition on online finance -- *Rong 360*
 
@@ -83,7 +83,7 @@ Selected Competition Experiences
 
 * [Competition Website](http://openresearch.rong360.com/dataanalysis2016/index/#right-shouye)  [Media Report](http://news.qlwb.com.cn/2016/1028/762071.shtml)
 
-***5th (a rank) 6th (b rank)/ 5000+*** (May 2018 – July 2018)
+***Top 6 / 5000+*** (May 2018 – July 2018)
 
 - Prediction the purchase time of target customers -- *JDATA-2018*
 
@@ -91,7 +91,7 @@ Selected Competition Experiences
 
 * [Competition Website](https://jdata.jd.com/html/detail.html?tab=myteam&id=2) [Main Code](https://github.com/duxuhao/JData-2018)
 
-***12th / 5000+*** (Mar. 2018 – Apr. 2018)
+***Top 12 / 5000+*** (Mar. 2018 – Apr. 2018)
 
 - Prediction of the conversion rate of advertisement -- *IJCAI-2018*
 
@@ -107,7 +107,7 @@ Selected Competition Experiences
 
 * [Competition Website](https://unearthed.solutions/perth-hackathon-unearths-a-gold-mine-of-valuable-solutions-for-newcrest-and-south32/)  [Main Code](https://github.com/duxuhao/Hackathon2017Perth).
 
-***19th / 3000+*** (May 2016 – July 2016)
+***Top 19 / 3000+*** (May 2016 – July 2016)
 
 - Prediction the demand and supply gap at certern and and space -- *DiDi*
 
@@ -128,7 +128,7 @@ Side Projects
 
 - Applied autoencoder with multiple layer and customized loss function for biosound enhancement
 
-**Develop features selection library (170+ stars)**
+**Develop features selection library (200+ stars)**
 
 -  for general features selection based on certain machine learning algorithm and evaluation methos [repo](https://github.com/duxuhao/Feature-Selection), [pip](https://pypi.org/project/MLFeatureSelection/)
 
