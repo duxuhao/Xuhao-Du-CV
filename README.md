@@ -42,9 +42,11 @@ Work Experiences
 
 - The Marshall Centre for Infectious Diseases Research and Training, UWA
 
-   -- Working as a full time research officer in the Marshall Centre, using machine learning in gut disease diagnosis and monitoring. 
+   -- Working as a research officer in the Marshall Centre, in charge of the algorithm and hardware developemeng. 
    
    -- Achieved ***87% diagnosis accuracy***. Patent under reviewed.[paper](https://www.gastrojournal.org/article/S0016-5085(18)34476-7/abstract)
+   
+   -- Western Australia Innovator of the Year 2018 (Finalist).[link](https://www.jtsi.wa.gov.au/what-we-do/science-and-innovation/innovation-initiatives/wa-innovator-of-the-year)
 
 * [Project Website](http://crowdresearch.uwa.edu.au/project/noisy-guts-project/)   [Media Report 1](https://thewest.com.au/news/wa/noisy-guts-have-keen-ear-for-stomach-woes-ng-b88449741z)   [Media Report 2](https://particle.scitech.org.au/people/listen-to-your-gut/).
 
@@ -148,6 +150,7 @@ Skills
 
      * Algorithms (Tree-based, SVM, Logistic Regression, Transfer learning, Genetic)
      * Deep Learning (DNN, CNN, AutoEncoder, GAN)
+     * Spiky Neural Network
      * Features Engineering [repo](https://github.com/duxuhao/Feature-Selection) [pip](https://pypi.org/project/MLFeatureSelection/)
      
 * Coding:
@@ -166,7 +169,7 @@ Skills
 * Human Languages:
 
      * Cantonese (native speaker)
-     * Chinese
+     * Chinese (native speaker)
      * English
 
 * Interest:
@@ -180,9 +183,9 @@ Skills
 Other Awards
 ----------------------------------------
 
-* I-INCE Young Professional 2017 [link](http://i-ince.org/youngprofessionals.php#DEM)
-
 * Outstanding Ph.D. Research Award of Western Australia
+
+* I-INCE Young Professional 2017 [link](http://i-ince.org/youngprofessionals.php#DEM)
 
 * IBM Cloud Research Funding Grant 2016
 
