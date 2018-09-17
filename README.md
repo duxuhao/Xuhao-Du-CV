@@ -1,6 +1,8 @@
 Xuhao(Peter) Du - CV
 ============
 
+![](https://github.com/duxuhao/Xuhao-Du-CV/blob/master/WAIOTY%202018%20Finalist.JPG)
+
 ***Always enthusiastic in working on real-world problem with colleagues and data***
 
 -------------------     ----------------------------
