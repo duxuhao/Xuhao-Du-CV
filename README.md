@@ -1,4 +1,5 @@
 Xuhao(Peter) Du - CV
+![](https://github.com/duxuhao/Xuhao-Du-CV/blob/master/杜旭浩中文简历.png)
 ============
 
 ![](https://github.com/duxuhao/Xuhao-Du-CV/blob/master/WAIOTY%202018%20Finalist.JPG)
